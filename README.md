@@ -19,13 +19,10 @@ I studied rust grammar.I can use rust.
 I like Eva(ngelion)
 
 
-## I like two sayings
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font+Mono&pause=1000&width=435&lines=Do+not+be+afraid!+Be+still!+;We+are+already+on+a+better+path;+do+not+retreat%2C+develop+your+strength.)](https://git.io/typing-svg)
-
-
+## I like a saying
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font+Mono&pause=1000&width=435&lines=Dedication+means+perfection)](https://git.io/typing-svg)
 
-Them are from **Dante Alighieri**
+It is from **Dante Alighieri**
 
 ## others
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lunkio&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
