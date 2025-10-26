@@ -4,7 +4,7 @@ Welcome to my self-introduction
 ## who am I 🧳
 I am a junior high school student in China
 
-I **love** computer science and I **love** programming
+I love computer science and I love programming
 
 I don't speak English well and this self-introduction is translated by Bing.
 > *（If you see any strange expressions, please let me know）*
@@ -14,5 +14,3 @@ I don't speak English well and this self-introduction is translated by Bing.
 I studied C grammar.I can use C.
 ### rust
 I studied rust grammar.I can use rust.
-### asm
-I can understand asm,but I can't use it to program
