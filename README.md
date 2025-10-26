@@ -22,6 +22,7 @@ I like Eva(ngelion)
 ## I like two sayings
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font+Mono&pause=1000&width=435&lines=Do+not+be+afraid!+Be+still!+;We+are+already+on+a+better+path;+do+not+retreat%2C+develop+your+strength.)](https://git.io/typing-svg)
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata+Nerd+Font+Mono&pause=1000&width=435&lines=Dedication+means+perfection)](https://git.io/typing-svg)
 
 Them are from **Dante Alighieri**
