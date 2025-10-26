@@ -1,4 +1,4 @@
-# Hello 👏👏👏
+## Hello 👏👏👏
 Welcome to my self-introduction
 
 ## who am I 🧳
@@ -22,4 +22,5 @@ I studied rust grammar.I can use rust.
 
 Them are from **Dante Alighieri**
 
+## others
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lunkio&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
